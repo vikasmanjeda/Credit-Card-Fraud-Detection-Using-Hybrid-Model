@@ -28,3 +28,4 @@ You need to have installed following softwares and libraries in your machine bef
 
 ## Architecture
 The project architecture deployed is shown here.
+![Picasc](https://user-images.githubusercontent.com/70885585/129890396-b5cbdcc6-24d4-4a45-bca5-4cf600a2acda.png)
