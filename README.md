@@ -29,3 +29,15 @@ You need to have installed following softwares and libraries in your machine bef
 ## Architecture
 The project architecture deployed is shown here.
 ![Picasc](https://user-images.githubusercontent.com/70885585/129890396-b5cbdcc6-24d4-4a45-bca5-4cf600a2acda.png)
+
+## Result
+The Precision, Recall, F-1 score, and Accuracy value of the Hybrid approach respectively were 0.95, 0.79, 0.85, and 0.9994967.
+
+<img src="https://user-images.githubusercontent.com/70885585/129950395-c97d7c47-2e67-447c-b5ff-842c1b4b1005.png" width="400" height="150">
+
+Comparison of key performance indicators between the tested approaches:
+
+<img src="https://user-images.githubusercontent.com/70885585/129953665-5078f0db-f093-4b2f-b9de-0fe23240602d.png" width="450" height="250">
+
+
+
